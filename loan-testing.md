@@ -1,21 +1,25 @@
+---
+description: Follow the below steps
+---
+
 # Loan Testing
 
 1. Deploying the loan smart contract at the node.
 2. The caller of the deployment can be anyone(deployment account). As the pallet Id we need to enter the account id of the community\_loan\_pool pallet. The repayment of the loan will get transferred to this account id.
 3. `5EYCAe5ijiYetqpEJnhXGV57uEiEy6ghW6qnub8TxmLaZfuC`
-4.
 
-    <figure><img src="https://lh5.googleusercontent.com/S9aQCFQbRAI-P3vzc135qAkTtsxaTuZr3WX4CMKadE7xoGjKRhh0TYY0JFzAQCgUE7LKNT8orCY4X2n82lVRqEjtXCoxkzq7UEic9wl0sKcNiy27kXI6rfVuheXhrYqEw78VW7L1VNLbOqaGmLDYpw" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/S9aQCFQbRAI-P3vzc135qAkTtsxaTuZr3WX4CMKadE7xoGjKRhh0TYY0JFzAQCgUE7LKNT8orCY4X2n82lVRqEjtXCoxkzq7UEic9wl0sKcNiy27kXI6rfVuheXhrYqEw78VW7L1VNLbOqaGmLDYpw" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="https://lh3.googleusercontent.com/oOrj1vjnYHRus3_wnvvnLeSvvjRlhd60ACpr8gYFSBej0fjD4NHEvZwwDzRGps9_oV1UnxJBKKMTgvc10HpRFI-7UoHiTinIfpbsGe7woz4xUF8ZO1nHtf7f2jkTsHKuoewgGnsv_OX-D9g0Q0u9vw" alt=""><figcaption></figcaption></figure>
-5. We need to add committee member for voting process by going to “Developer” tab… then choosing “Sudo”. then go to “submit the following change” dropdown and choose “communityLoanPool”.
-6.  Calling the addCommitteeMember function in the community loan pool pallet with sudo and entering the account address of the member we want for the voting
+<figure><img src="https://lh3.googleusercontent.com/oOrj1vjnYHRus3_wnvvnLeSvvjRlhd60ACpr8gYFSBej0fjD4NHEvZwwDzRGps9_oV1UnxJBKKMTgvc10HpRFI-7UoHiTinIfpbsGe7woz4xUF8ZO1nHtf7f2jkTsHKuoewgGnsv_OX-D9g0Q0u9vw" alt=""><figcaption></figcaption></figure>
+
+4. We need to add committee member for voting process by going to “Developer” tab… then choosing “Sudo”. then go to “submit the following change” dropdown and choose “communityLoanPool”.
+5.  Calling the addCommitteeMember function in the community loan pool pallet with sudo and entering the account address of the member we want for the voting
 
 
 
     <figure><img src="https://lh4.googleusercontent.com/uSOrI_VLZaOmBgTh1beWryNNTKvLk62UIIcSH3Vq_ntjlgx6ea_GZlSsjH5iEs6DucDeZu9_SJW19GbACw5pt-Si0vMIT2vVopxumN1znzK5obEHn8keA11hWw4A7rLpzvHMrjl3uS_5O7xCr-nWaw" alt=""><figcaption></figcaption></figure>
-7. We are calling the propose function in the community loan pool pallet to propose a loan by going to “Developer” tab… then choosing “Extrinsics”. then go to “submit the following extrinsic” dropdown and choose “communityLoanPool”.
-8. Two arguments need to be entered. First the amount that needs to be borrowed and the beneficiary who should be able to withdraw the loan amount.
+6. We are calling the propose function in the community loan pool pallet to propose a loan by going to “Developer” tab… then choosing “Extrinsics”. then go to “submit the following extrinsic” dropdown and choose “communityLoanPool”.
+7. Two arguments need to be entered. First the amount that needs to be borrowed and the beneficiary who should be able to withdraw the loan amount.
 
 <figure><img src="https://lh4.googleusercontent.com/REv_XSww5KxUJHd4USZwEF1xmK-UudOC2qYLorYmwN5HrFuYA_MpIuQOPocLIlwJOrCeP18B3bJae1X_j2t_f_1mM3haPPUNnwaDYeYHCd3CU8WjqNUgUOg2M10_wwl4-X77D-oHCly7OTp0_1cFNg" alt=""><figcaption></figcaption></figure>
 
