@@ -6,12 +6,11 @@ description: Follow the below steps
 
 1. Deploying the loan smart contract at the node.
 2. The caller of the deployment can be anyone(deployment account). As the pallet Id we need to enter the account id of the community\_loan\_pool pallet. The repayment of the loan will get transferred to this account id.
-3. `5EYCAe5ijiYetqpEJnhXGV57uEiEy6ghW6qnub8TxmLaZfuC`
+3.  `5EYCAe5ijiYetqpEJnhXGV57uEiEy6ghW6qnub8TxmLaZfuC`&#x20;
 
-<figure><img src="https://lh5.googleusercontent.com/S9aQCFQbRAI-P3vzc135qAkTtsxaTuZr3WX4CMKadE7xoGjKRhh0TYY0JFzAQCgUE7LKNT8orCY4X2n82lVRqEjtXCoxkzq7UEic9wl0sKcNiy27kXI6rfVuheXhrYqEw78VW7L1VNLbOqaGmLDYpw" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://lh3.googleusercontent.com/BUXj9ho_JgnMMIGZ6qJ9lp5Vu9-Mah7JsQH5UFPuf2-x-AVTtw70TO_914Q3MzT9pdE5nh8O2M3f4DSnu1KmZgcXCNDbqoVc8d65TQ23ZN2PQUTtzoC1TNwBGSloR57glFAZaxJz2Vnfnqy2t3lE8A" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh3.googleusercontent.com/oOrj1vjnYHRus3_wnvvnLeSvvjRlhd60ACpr8gYFSBej0fjD4NHEvZwwDzRGps9_oV1UnxJBKKMTgvc10HpRFI-7UoHiTinIfpbsGe7woz4xUF8ZO1nHtf7f2jkTsHKuoewgGnsv_OX-D9g0Q0u9vw" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="https://lh5.googleusercontent.com/S9aQCFQbRAI-P3vzc135qAkTtsxaTuZr3WX4CMKadE7xoGjKRhh0TYY0JFzAQCgUE7LKNT8orCY4X2n82lVRqEjtXCoxkzq7UEic9wl0sKcNiy27kXI6rfVuheXhrYqEw78VW7L1VNLbOqaGmLDYpw" alt=""><figcaption></figcaption></figure>
 4. We need to add committee member for voting process by going to “Developer” tab… then choosing “Sudo”. then go to “submit the following change” dropdown and choose “communityLoanPool”.
 5.  Calling the addCommitteeMember function in the community loan pool pallet with sudo and entering the account address of the member we want for the voting
 
@@ -39,9 +38,9 @@ description: Follow the below steps
 
 14. Once the proposal gets executed the loan info will be on the smart contract and the beneficiary of the loan will be able to withdraw the funds from the smart contract. The loan information can be viewed by calling the get loan info by selecting “Contracts” option then view “Messages” then scroll to getLoanInfo and click “read”.&#x20;
 
-    <figure><img src="https://lh3.googleusercontent.com/FQdcbmDzlrofryd2SCy5sYUkWgCPdU_Op1Z5aDW-8xy8ZPFehnyhUYeJsBj34a7GbN2GoaqnjAiRdpO38SqQetezivJNpNNfzimjT-u1O5OfPvVpzmkUSWlPPBWgtZEgIlUdNAEGxqtgIbI4Cxn4Hw" alt=""><figcaption></figcaption></figure>
-
     <figure><img src="https://lh6.googleusercontent.com/2ijVxqc1j9q3lrJTheLkwN80UUDj1nBJ2xiVuqgthFOTdhdFJHshwevNiyOAiRWZrzczN4UocW1eWSvvIeO8LduJk1hyHnq1PTIvvk2sFJiRbiPemXQPFAUuUcUpJArkwT_vJIS4bqRowej7g00wrg" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="https://lh4.googleusercontent.com/A5Wwoxm4W6husoQTZbqxDghg3IYmLuuDzwC6IKTfioa1G6Brg8vnP_SOxv4vzob-YT0Z7EQJ4dpv4hPUssUO6VN8rxe1Le_FLWaLYmy6-cZN-mURGvRcnKKwEsqpctgSMBHlcmabj5py5TV0GfKX2w" alt=""><figcaption></figcaption></figure>
 15. The funds can be withdrawn from the beneficiary by calling the withdrawFunds function by clicking “execute”... Then enter the following arguments; loan id and the amount the beneficiary wishes to withdraw. Ensure the caller of this function is the same as the beneficiary of the loan.
 
 <figure><img src="https://lh6.googleusercontent.com/szsNVWwMER2oOSPeatL3oxkqI2THWFR4Ga8YM7LhHozyy-hYIJTFlUd9sBTd8iEljz9OjKH3UJi_6dyjyHBMWf0NJ7jb3OefjvtSGgrknzzInmQRnGK9JjA1SVb8d8NybkGOIjnLAHzPdSoxa7ODow" alt=""><figcaption></figcaption></figure>
