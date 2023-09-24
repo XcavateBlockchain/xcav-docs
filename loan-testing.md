@@ -2,7 +2,7 @@
 
 1.  Deploying the loan smart contract at the node.
 
-    1. The caller of the deployment can be anyone (deployment account). As the pallet Id we need to enter the account id of the community\_loan\_pool pallet. The repayment of the loan will get transferred to this account id.
+    1. The caller of the deployment can be anyone (deployment account). Firstly enter the Pallet ID: Account ID (copy and paste it in) of the community\_loan\_pool pallet. The repayment of the loan will get transferred back to this account.
     2. `5EYCAe5ijiYetqpEJnhXGV57uEiEy6ghW6qnub8TxmLaZfuC`
 
     &#x20;
