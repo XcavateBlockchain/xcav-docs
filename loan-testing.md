@@ -2,7 +2,7 @@
 
 1.  Deploying the loan smart contract at the node.
 
-    1. The caller of the deployment can be anyone(deployment account). As the pallet Id we need to enter the account id of the community\_loan\_pool pallet. The repayment of the loan will get transferred to this account id.
+    1. The caller of the deployment can be anyone (deployment account). As the pallet Id we need to enter the account id of the community\_loan\_pool pallet. The repayment of the loan will get transferred to this account id.
     2. `5EYCAe5ijiYetqpEJnhXGV57uEiEy6ghW6qnub8TxmLaZfuC`
 
     &#x20;
@@ -12,14 +12,14 @@
 
 
     <figure><img src="https://lh3.googleusercontent.com/vuBp7-xBSn-dabM-gOWOFylSA6eIEgtOkTKJZ3bJqJOXP8QvNuHb1KMFnmYIg3nbkJsrJgoAZDjWqkPjbl8NsB-R8wrIS1iIzsseGmS2nsZW81AJ1Ht19ZmWsucTrn2Wd38Epnhk1-pzHTpfDbxvdw" alt=""><figcaption></figcaption></figure>
-2.  We need to add committee member for the voting process by going to the “Developer” tab… then choosing “Sudo”. then go to “submit the following change” dropdown and choose “communityLoanPool”.
+2.  We need to add committee member for the voting process by going to the “Developer” tab… then choosing “Sudo”, then go to “submit the following change” dropdown and choose “communityLoanPool”.
 
-    1. Calling the addCommitteeMember function in the community loan pool pallet with sudo and entering the account address of the member we want for the voting.
+    1. Calling the addCommitteeMember function in the community\_loan\_pool pallet with sudo and entering the account address of the member we want for the voting.
 
 
 
     <figure><img src="https://lh6.googleusercontent.com/vCc-uUKa5EldaFTPwgewhlOPO-A0IhnL8uYAxmzsSpOd9q1D4e6Rnngl6MKFTvaL56w6v53ZUAyy4X7Q1rY9Y4Cf_-SGMJ082r5tt10xHxKPA4mWbumdAGrwl-DiLCkEZslE_MQYnyhDv8rRjwuG2A" alt=""><figcaption></figcaption></figure>
-3.  We are calling the propose function in the community loan pool pallet to propose a loan by going to “Developer” tab… then choosing “Extrinsics”, then go to “submit the following extrinsic” dropdown and choose “communityLoanPool”.
+3.  We are calling the propose function in the community\_loan\_pool pallet to propose a loan by going to “Developer” tab… then choosing “Extrinsics”, then go to “submit the following extrinsic” dropdown and choose “communityLoanPool”.
 
     1. Two arguments need to be entered. First the amount that needs to be borrowed and the beneficiary who should be able to withdraw the loan amount.
 
@@ -46,7 +46,7 @@
     3. collateral price (in practice this should cover the value of the loan)
     4. value of funds (should be loan value - 12 zeros need to be added due to the decimals of the node)
     5. item id (choose a number for the nft item id)
-    6. oan apy (choose high number for demo purpose to observe the interests being generated per block)
+    6. loan apy (choose high number for demo purpose to observe the interests being generated per block)
     7. destination account address (select “loan” option in “contracts”)
     8. admin account address (choose user as admin for this particular loan)
     9. gas limits (set to at least 5,000,000,000)
@@ -63,7 +63,7 @@
 
 
     <figure><img src="https://lh3.googleusercontent.com/zL5YP5PM3aP1whEDzqLngZYKk2o09Td3F8J42E1v2aRu-3OQsjO6_Yg1DGeCg6c_kXR0wCNKhsYCZ4ZClWRoTlVteh9A3zjwx_erz5aH48USB2kT21osMTNLWJ1_9K0O3oU71ZndbR3IN_1Q_xE6IQ" alt=""><figcaption></figcaption></figure>
-8.  The funds can be withdrawn from the beneficiary by calling the withdrawFunds function by clicking “execute”... Then enter the following arguments; loan id and the amount the beneficiary wishes to withdraw. Ensure the caller of this function is the same as the beneficiary of the loan.
+8.  The funds can be withdrawn from the beneficiary by calling the withdrawFunds function by clicking “execute”... Then enter the following arguments: loan id and the amount the beneficiary wishes to withdraw. Ensure the caller of this function is the same as the beneficiary of the loan.
 
 
 
