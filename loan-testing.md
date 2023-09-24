@@ -39,14 +39,17 @@
 
 
     <figure><img src="https://lh6.googleusercontent.com/SO2k7n0JPfUoe5yu2dV87qSBkH7xNdju2ZnH6OOiFFzcjop9IFoXASqGw8SkoWI4TwwaeIh0SIwTbCCNBmH1qGtSCwnvMbhj1vxesLvTj9bENMf_bQv7tLM0y2Lgh5DwWWdXfgF6Lw4r_u8Cale6uA" alt=""><figcaption></figcaption></figure>
-6.  The proposal can be executed with the approve proposal function if the voting succeeded. As arguments the.
+6.  The proposal can be executed with the approve proposal function if the voting succeeded. As arguments we have the following:
 
     1. proposal index
     2. collection id (choose the collection id that you want - this relates to the land nft)
     3. collateral price (in practice this should cover the value of the loan)
     4. value of funds (should be loan value - 12 zeros need to be added due to the decimals of the node)
     5. item id (choose a number for the nft item id)
-    6. loan apy (choose high number for demo purpose to observe the interests being generated per block), destination account address (select “loan” option in “contracts”), admin account address (choose user as admin for this particular loan) and set gas limits (to at least 5,000,000,000)
+    6. oan apy (choose high number for demo purpose to observe the interests being generated per block)
+    7. destination account address (select “loan” option in “contracts”)
+    8. admin account address (choose user as admin for this particular loan)
+    9. gas limits (set to at least 5,000,000,000)
 
 
 
