@@ -1,8 +1,11 @@
 # Introduction
 
-Xcavate is the web3 future of real estate build finance and property investment, by bringing together small to medium sized real estate developers directly with retail investors, in a trustless and permissionless environment.
+Creating a fairer, trustless and more sustainable real estate investment web3 future. 
 
-This documentation is aimed to help you build and test the Xcavate node by adding the ink! smart contract, which allows a real estate developer to borrow using their physical land (which is minted as an NFT) against a build loan that is pre-approved by the Xcavate community technical committee.
+Total global Real Estate was valued at over $378.7 trillion at the end of 2022 yet only 1.1% of the global population own half of all the world's wealth.
 
-The Xcavate community loan pool is an on-chain fund, which provides a source of liquidity for real estate developments and an opportunity for XCAV token holders to stake in the community loan pool.
+Nearly 40% of global carbon dioxide emissions come from the real estate sector.
 
+An estimated 150 million people are homeless globally, though the real number is probably higher.
+
+The Xcavate Protocol tackles these issues by leveraging the power of blockchain technology as a Parachain / Appchain on Polkadot. Our protocol uses; digital identity (Kilt), custom substrate pallets, tokenisation (NFTs) and oracles (Acurast) to introduce transparency, security, accessibility and sustainability to the real estate market, while still being fully legally compliant.
