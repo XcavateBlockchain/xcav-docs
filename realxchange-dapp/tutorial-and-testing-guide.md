@@ -26,4 +26,3 @@ Seed Phase: bottom drive obey lake curtain smoke basket hold race lonely fit wal
 Dave Chum - Project NFT Buyer 2\
 Wallet address: 5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty\
 Seed Phase: bottom drive obey lake curtain smoke basket hold race lonely fit walk//Dave\
-\
