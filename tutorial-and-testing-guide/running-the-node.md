@@ -2,7 +2,7 @@
 
 Open a new terminal in VS code and copy the Xcavate node repo.
 
-`git clone` [`https://github.com/XcavateBlockchain/tanssi'](https://github.com/XcavateBlockchain/tanssi)
+`git clone` [https://github.com/XcavateBlockchain/tanssi](https://github.com/XcavateBlockchain/tanssi)
 
 `cd Xcavate_Node`
 
