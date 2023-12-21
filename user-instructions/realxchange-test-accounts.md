@@ -14,7 +14,7 @@ Password: WeLoveCharie@2024\
 \
 Dave Chum - Project NFT Buyer 2\
 Seed Phase: echo popular trigger envelope effort pig ritual curtain unlock sunset favourite midnight\
-Password: WeLoveDave@2024\\
+Password: WeLoveDave@2024
 
 ### Polkadot.js Wallet
 
