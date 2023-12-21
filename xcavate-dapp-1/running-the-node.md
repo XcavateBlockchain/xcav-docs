@@ -8,7 +8,7 @@
 
 git clone [https://github.com/XcavateBlockchain/Xcavate\_Node](https://github.com/XcavateBlockchain/Xcavate\_Node)
 
-cd Xcavate\_Node
+`cd Xcavate\_Node`
 
 `cargo build --release`
 
