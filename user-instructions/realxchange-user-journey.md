@@ -146,7 +146,7 @@ Users of the realXchange active projects marketplace can only buy NFTs in a part
 
 <figure><img src="https://lh7-us.googleusercontent.com/Q3RFDwbU0VHMSDl4p3h6ngyk9TZrFXuhqPjRVxi5SjNMpfA32JP6-ysgCODUKRPXCI0npm4R0EDyThoY-YMsZKLviGgWAEAOZ4UonTNcok5yRZgJd9SdMovuaHYE6PV7GNvOqgj94FclzQJ4i5PcWw" alt=""><figcaption></figcaption></figure>
 
-5.3 NFT holders can vote by clicking the vote button on the particular Community Project they have purchased NFTs in. The voting power is determined by the value of the NFTs that the user has acquired. If the vote has more ‘yes’ votes than ‘no’ votes, the first milestone tranche of funds is sent to the Project Manager's wallet. If it is not reached, the project receives a strike. Once a project receives 3 strikes, the remaining funds are refunded to the NFT owners of the project, the bonding locks are released and the project is deleted. At the end of a milestone the strikes are reset to zero as soon as a vote has taken place.
+5.3 NFT holders can vote by clicking the vote button on the particular Community Project they have purchased NFTs in. The voting power is determined by the value of the NFTs that the user has acquired. If the vote has more ‘yes’ votes than ‘no’ votes, the first milestone tranche of funds is sent to the Project Manager's wallet. If it is not reached, the project receives a strike. Once a project receives 3 consecutive strikes, the project is deemed to have defaulted. All remaining project funds are then returned to the NFT owner wallets, the bonding locks are released and the project is deleted. At the end of a milestone the strikes are reset to zero as soon as a vote has taken place.
 
 \
 
