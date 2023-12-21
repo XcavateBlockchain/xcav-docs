@@ -12,7 +12,7 @@ Charlie Chap - Project NFT Buyer 1\
 Seed Phase: awesome just tourist slim hood swamp prison weapon print enforce choose bag\
 Password: WeLoveCharie@2024\
 \
-Dave Chum - Project NFT Buyer 2\
+Bob Real Estate Developer - Project NFT Buyer 2\
 Seed Phase: echo popular trigger envelope effort pig ritual curtain unlock sunset favourite midnight\
 Password: WeLoveDave@2024
 
