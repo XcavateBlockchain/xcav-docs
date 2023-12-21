@@ -20,5 +20,3 @@ To add an account to the whitelist, the sudo account must call the addToWhitelis
 This function only requires the AccountId of the user to be added to the whitelist as a parameter.
 
 <figure><img src="https://lh7-us.googleusercontent.com/sx6AHztDeT_24QggjucMt5u0WrF5ngoD8dG8uuSjVTqC0ZBHgm3959Nhtj4l-YoHCQlEe4tOdKGCzTO_mu8SAnGB--I36ir-IQzsRigi-WNLGpouEk8kTuBYREYRGCw5u1lJLTItjAT5nEfD9WBdeA" alt=""><figcaption></figcaption></figure>
-
-\
