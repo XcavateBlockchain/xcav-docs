@@ -1,2 +1,0 @@
-# Community Project NFT Marketplace
-
