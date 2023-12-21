@@ -9,3 +9,7 @@ Nearly 40% of global carbon dioxide emissions come from the real estate sector.
 An estimated 150 million people are homeless globally, though the real number is probably higher.
 
 The Xcavate Protocol tackles these issues by leveraging the power of blockchain technology as a Parachain / Appchain on Polkadot. Our protocol uses; digital identity (Kilt), custom substrate pallets, tokenisation (NFTs) and oracles (Acurast) to introduce transparency, security, accessibility and sustainability to the real estate market, while still being fully legally compliant.
+
+The Xcavate dApp provides a way for pre-approved Real Estate Developers to apply for real estate development loans to build new properties. As well as a route to market through fractional ownership.
+
+The realXchange dApp is a NFT marketplace and project management tool, which empowers small community based projects tackling environmental, ecological & social issues to raise / access much needed funds.
