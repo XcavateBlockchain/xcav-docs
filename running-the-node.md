@@ -1,10 +1,14 @@
 # Running the node
 
-Open a new terminal in VS code and copy the Xcavate node repo.
+### Accessing Tanssi Node
 
-`git clone`[`https://github.com/XcavateBlockchain/Xcavate_Node`](https://github.com/XcavateBlockchain/Xcavate\_Node)
+[`https://polkadot.js.org/apps/?rpc=wss://fraa-flashbox-2036-rpc.a.stagenet.tanssi.network#/explorer`](https://polkadot.js.org/apps/?rpc=wss://fraa-flashbox-2036-rpc.a.stagenet.tanssi.network#/explorer)
 
-`cd Xcavate_Node`
+
+
+### Running Xcavat\_Node Locally
+
+git clone [https://github.com/XcavateBlockchain/Xcavate\_Node](https://github.com/XcavateBlockchain/Xcavate\_Node)
 
 `cargo build --release`
 

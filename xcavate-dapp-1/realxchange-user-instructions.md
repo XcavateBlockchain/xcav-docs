@@ -26,6 +26,6 @@ Charlie Chap - Project NFT Buyer 1\
 Wallet address: 5FLSigC9HGRKVhB9FiEo4Y3koPsNmBmLJbpXg2mp1hXcS59Y\
 Seed Phase: bottom drive obey lake curtain smoke basket hold race lonely fit walk//Charlie\
 \
-Dave Chum - Project NFT Buyer 2\
+Bob Real Estate Developer - Project NFT Buyer 2\
 Wallet address: 5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty\
-Seed Phase: bottom drive obey lake curtain smoke basket hold race lonely fit walk//Dave\\
+Seed Phase: bottom drive obey lake curtain smoke basket hold race lonely fit walk//Bob\
