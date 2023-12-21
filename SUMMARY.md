@@ -14,3 +14,5 @@
   * [realXchange User Journey](user-instructions/realxchange-user-journey.md)
   * [realXchange Whitelist Pallet - Testing](testing/realxchange-whitelist-pallet-testing.md)
   * [realXchange Community Project - Testing](testing/realxchange-community-project-testing.md)
+* [Xcavate Technical Diagram](xcavate-technical-diagram.md)
+* [realXchange Technical Diagram](realxchange-technical-diagram.md)
