@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Running the node](testing/running-the-node.md)
+* [Whitelist Pallet - Testing](whitelist-pallet-testing.md)
 * [Xcavate dApp](xcavate-dapp/README.md)
   * [Xcavate dApp User flow](xcavate-dapp/xcavate-dapp-user-flow.md)
   * [Xcavate dApp Test Accounts](user-instructions/xcavate-dapp-test-accounts.md)
@@ -13,6 +14,5 @@
 * [realXchange dApp](user-instructions/README.md)
   * [realXchange Test Accounts](user-instructions/realxchange-test-accounts.md)
   * [realXchange User Journey](user-instructions/realxchange-user-journey.md)
-  * [realXchange Whitelist Pallet - Testing](testing/realxchange-whitelist-pallet-testing.md)
   * [realXchange Community Project - Testing](testing/realxchange-community-project-testing.md)
   * [realXchange Technical Diagram](realxchange-dapp/realxchange-technical-diagram.md)
