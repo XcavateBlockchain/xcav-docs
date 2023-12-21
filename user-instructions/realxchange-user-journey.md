@@ -14,7 +14,7 @@ To interact with the real exchange dApp, the Project Manager and all other user 
 We have created a number of test accounts with DID’s and verifiable credentials
 
 \
-Please go to this page (insert link) to set up the Sporran wallet / DIDs / Credentials prior to proceeding.
+Please go to this page [(click this link) ](https://xcavate-1.gitbook.io/xcavate-docs/realxchange-dapp/realxchange-test-accounts)to set up the Sporran wallet / DIDs / Credentials prior to proceeding.
 
 \
 You will also need to create Talisman or Polkadot.js wallets from the seed phrases.
