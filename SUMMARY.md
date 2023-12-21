@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Running the node] (running-the-node.md)
 * [Xcavate dApp](xcavate-dapp/README.md)
   * [Xcavate dApp User flow](xcavate-dapp/xcavate-dapp-user-flow.md)
 * [User Instructions ](user-instructions/README.md)
