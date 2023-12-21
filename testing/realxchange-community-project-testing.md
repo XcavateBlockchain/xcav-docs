@@ -1,2 +1,0 @@
-# realXchange Community Project - Testing
-

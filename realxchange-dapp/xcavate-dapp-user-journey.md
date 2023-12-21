@@ -1,2 +1,0 @@
-# Xcavate dApp User Journey
-

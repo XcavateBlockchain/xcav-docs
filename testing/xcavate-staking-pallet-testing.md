@@ -1,2 +1,0 @@
-# Xcavate Staking Pallet - Testing
-

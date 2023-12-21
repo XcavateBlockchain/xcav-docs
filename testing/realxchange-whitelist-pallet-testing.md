@@ -1,2 +1,0 @@
-# realXchange Whitelist Pallet - Testing
-

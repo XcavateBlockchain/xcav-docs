@@ -1,10 +1,10 @@
 # Running the node
 
-### Accessing Tanssi Node
+#### Accessing Tanssi Node
 
 [`https://polkadot.js.org/apps/?rpc=wss://fraa-flashbox-2036-rpc.a.stagenet.tanssi.network#/explorer`](https://polkadot.js.org/apps/?rpc=wss://fraa-flashbox-2036-rpc.a.stagenet.tanssi.network#/explorer)
 
-### Running Xcavate\_Node Locally
+#### Running Xcavate\_Node Locally
 
 git clone [https://github.com/XcavateBlockchain/Xcavate\_Node](https://github.com/XcavateBlockchain/Xcavate\_Node)
 
