@@ -2,9 +2,9 @@
 
 ## **RealXchange testing with polkadot js as frontend**
 
-**1.0 Listing Project**
-
 To interact with the real exchange dApp, the project manager and all other user must have already gone through the DID/KYC/KYB/AML (Kilt DID & Deloitte Verifiable Credentials) process (and be whitelisted) in order to be able to call the extrinsics of the community project pallet.
+
+**1.0 Listing Project**
 
 The listProject function must be called by the project manager.
 
@@ -39,7 +39,7 @@ This means that the token is locked for the user and the XCAV tokens in the Comm
 
 The NFTs can be purchased by the marketplace users. To do this, the function buy NFT must be called. It has the parameter collectionId, which is the collection ID of the project. The number of the NFT type that the user selects for purchase and the number of NFTs of that selected type.
 
-Users of the realXchange active projects marketplace can only NFTs in a particular project until that project's funding target is reached. They will only be charged for the NFTs when they receive them. The NFTs are paid with XUSD (this represents a test version of a stable coin), and later these funds are forwarded to the project manager in equal tranches based on the number of milestones.
+Users of the realXchange active projects marketplace can only buy NFTs for a particular project until that project's funding target is reached. They will only be charged for the NFTs when they receive them. The NFTs are paid with XUSD (this represents a test version of a stable coin), and later these funds are forwarded to the project manager in equal tranches based on the number of milestones.
 
 <figure><img src="https://lh7-us.googleusercontent.com/UVdlbhLEfzVk1bxRwPk0zkVTCPcXh-rLWSK7G28OiLEWDswIf-_gzf9EiplWvpaf-skOk4_XBMpckMbohbpLPvcCktSEHgcMtIuuSCY_dgoEiyCG043OLz27Q-L-tPAi1uzBXz7Frvi9e9a5AZ9ywg" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ Users of the realXchange active projects marketplace can only NFTs in a particul
 
 3.2 Once the project has been launched, the first milestone period begins. For testing purposes, it only lasts a few blocks. As soon as the milestone period is over, the first voting period begins. During this period, all users with NFTs in that particular project can vote on the milestone. They can vote either Yes or No on the milestone.
 
-3.3 Nft holders can vote by calling the voteOnMilestone function. The parameter collectionId is the collection ID of the project and vote is an enum with the value ‘yes’ or ‘no’. The voting power is determined by the value of the NFTs that the user has acquired. If the vote has more ‘yes’ votes than ‘no’ votes, the first milestone tranche of funds is sent to the project manager's wallet. If it is not reached, the project receives a strike. Once a project receives 3 strikes, the remaining funds are refunded to the NFT owners of the project, the bonding locks are released and the project is deleted. At the end of a milestone the strikes are reset to zero as soon as a vote has taken place.
+3.3 Nft holders can vote by calling the voteOnMilestone function. The parameter collectionId is the collection ID of the project and vote is an enum with the value ‘yes’ or ‘no’. The voting power is determined by the value of the NFTs that the user has acquired. If the vote has more ‘yes’ votes than ‘no’ votes, the first milestone tranche of funds is sent to the project manager's wallet. If it is not reached, the project receives a strike. Once a project receives 3 strikes, the remaining funds are refunded to the NFT owners of the project, the bonding locks are released and the project is deleted. At the end of a milestone the strikes are reset to zero if a vote passed.
 
 <figure><img src="https://lh7-us.googleusercontent.com/_CGXFb3_u0vIdlxdnZYlAq97_DX14I5vcuhOAWbnU-mByCz1nEERz4feeA9VZHKFTETWcRjTSK691x5oAtuSo0XXFVg16kuU6CGoB48yp1EA-CMs5ZF1I4RupbkzpfOr6JTDgcJUZsfDcY2jF_6GMQ" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,3 @@ Users of the realXchange active projects marketplace can only NFTs in a particul
 3.4 As soon as all milestones have been reached, the project is deleted and the bonding locks are released.
 
 
-
-
-
-\
