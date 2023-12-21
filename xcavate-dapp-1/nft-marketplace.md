@@ -2,12 +2,10 @@
 
 ### NFT Real Estate Marketplace testing with polkadot js as frontend
 
-\
-**1.0 Listing Object**
-
 To interact with the NFT Real Estate Marketplace, all user must have already gone through the DID/KYC/KYB/AML (Kilt DID & Deloitte Verifiable Credentials) process (and be whitelisted) in order to be able to call the extrinsics of the marketplace.
 
-\
+**1.0 Listing Object**
+
 The listObject function must be called by the Real Estate Developer in order to list an object on the marketplace.
 
 The price must be selected as a parameter. This is the total price of the real estate object. Each NFT corresponds to 1% of this price. The property is divided into 100 NFTs.
@@ -72,4 +70,3 @@ The collectionID of the object and the itemID of the NFT that the buyer wishes t
 
 <figure><img src="https://lh7-us.googleusercontent.com/RpHSeuM9tgh4EEBecquZY9Dj9hzLYCoOXcPbOsHe5fSN_Ax5Uk3fDsQVOPxPFa4lMlcYV77bPP8C0GhU0lqUF_6zS98ktyWrcQZDXRBujqNXN8s4hzksegFBJdIzilzQK_1KaCQ-mb9ZB3Z5FUL6xw" alt=""><figcaption></figcaption></figure>
 
-\
