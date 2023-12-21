@@ -1,7 +1,5 @@
 # NFT Marketplace - Testing
 
-## NFT Marketplace
-
 #### NFT Real Estate Marketplace testing with polkadot js as frontend
 
 To interact with the NFT Real Estate Marketplace, all user must have already gone through the DID/KYC/KYB/AML (Kilt DID & Deloitte Verifiable Credentials) process (and be whitelisted) in order to be able to call the extrinsics of the marketplace.

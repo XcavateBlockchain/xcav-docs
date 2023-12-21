@@ -1,11 +1,6 @@
 # Xcavate dApp User Journey
 
-### Xcavate dApp user instructions with react.js UI
-
-\
 All users should land on the homepage to start their journey. This page explains the purpose of the dApp and the different property NFTs available.
-
-\\
 
 <figure><img src="https://lh7-us.googleusercontent.com/RBczsQsXhaqYKTvU30wPO2It5FXpq1vVwKrE71EqpDoa0CNq7-w0f0CDE-y4_atU3F2PehVns_pnxOhYXLNwYIFTFH03oY4ppNj-LPZXkUykbsU5HVMQd6hPy7mfy8vhamSq72iUnkgt5M9ocTA_RQ" alt=""><figcaption></figcaption></figure>
 
@@ -36,8 +31,6 @@ Test Account 4 = Bob Builder (Real Estate Developer)... he has already been KYC,
 \
 Once you have setup Bob’s Sporran & Talisman / Polkadot.js wallet then you can connect to his account.
 
-\\
-
 <figure><img src="https://lh7-us.googleusercontent.com/YuSSUiwKe2MN8Ml8XFklkkyOjh2ZHR_xT7pfyZtst6fqVQj-ntW6YjvDs7Hie2ztz4sdoiHYmwodj3Nd23trdLFDuxWwwYmD0Vff-nJAOrkSNY-d_oR10C8CzJlLN2i9eEIozz7jsDBf8BPTmN5yog" alt=""><figcaption></figcaption></figure>
 
 **2.2 Real Estate Investor**
@@ -47,8 +40,6 @@ Test Account 5 = Alice (Real Estate Investor)... she has already been KYC & AML 
 
 \
 Once you have setup Alice’s Sporran & Talisman / Polkadot.js wallet then you can connect to her account.
-
-\\
 
 <figure><img src="https://lh7-us.googleusercontent.com/peJOhjRfoVeZnOYROe2ZiJpAcPZ3NVE7hvZHso4eB_p-OeUoWouwEq-jVr5Ie5oAegahG_Sr3O4I1huKFn8Jb36g1PgFIJQYpaGq2IqjVQ-Q4-QGo2BSeIUuukGiT-es44QeAi_BJwxjsAMxp5ZCOA" alt=""><figcaption></figcaption></figure>
 

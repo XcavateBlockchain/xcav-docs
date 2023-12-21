@@ -1,7 +1,5 @@
 # Xcavate Community Loan Pallet - Testing
 
-#### Community-loan-pool pallet testing with polkadot js as frontend
-
 **1.0 Add Committee Members**
 
 To add members to the voting committee, the sudo account should call the addCommitteeMember function. The accountId of the new member is required as a parameter.
