@@ -1,7 +1,5 @@
 # realXchange User Journey
 
-## realXchange User Journey
-
 #### Real exchange user instructions with next.js UI
 
 All users should land on the homepage to start their journey. This page explains the purpose of the dApp and the different project categories available.\\
@@ -49,7 +47,7 @@ Test Account 3 = Dave Chum - Project NFT Buyer 2... he has already been KYC, KYB
 \
 Once you have setup Dave’s Sporran & Talisman / Polkadot.js wallet then you can connect to his account.
 
-<figure><img src="https://lh7-us.googleusercontent.com/g4guN5XayVYemuHEytaHgdwaLHS47E0sl67For-Dklh1pHRQimi9vSLGnNY5Jmfo4z2psAC_NSeg1SNEFf_gRxevNa1cL0o-6usI90mfgBqMMrZLkAXt2K9xi4NNv-CuX3hVNmBdTxUlCEZO1PnXKA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 \
 **3.0 Creating & Listing a Project**
@@ -81,8 +79,6 @@ The various NFT types are the variants that the Project Manager wishes to sell o
 
 different NFT artworks can be created. Each variant can have a bespoke keyword, colour and description.
 
-\\
-
 <figure><img src="https://lh7-us.googleusercontent.com/HUQ8io8v-tiBzuRQWU2hZAT3uk7dMWyi_E2tIMmUmPZU8SkrUDCa1AoD-G1WxAFwHD3GLxmm7FZpN7TEGFKWtQg30Y19n_qeZvRTkLH-nHExlRWs9I3lhK1QXJIxVKMiZSW6uU9qnivm9rDO9y6tFA" alt=""><figcaption></figcaption></figure>
 
 Once the artwork preview button has been clicked, the artwork is displayed. If this is accepted then the price and the quantity of any type of NFT must be entered. Once the “Create Artwork” button is clicked, then the project is created on the blockchain and listed on the marketplace.
@@ -95,14 +91,12 @@ Once the project is listed on the real exchange dApp there are two options to su
 \
 4.1 The first option is to bond tokens to the project by clicking the Bond Token button.
 
-\\
-
 <figure><img src="https://lh7-us.googleusercontent.com/Dy3KJfZD372oksNFF31H-_vZ17280yIvGEjzVrZQT7JKVcnikYiU0ZOrfwbBdGcZpiVtWAlOOWwW-bKQzGBcsDxTeJB4J_nToTCcSRHuat5vpEnzZ9hQ27TNbgF1ZuZhwpBGrqeuYaJ31gE1gHYCRw" alt=""><figcaption></figcaption></figure>
 
 This means that the token is locked for the user and the XCAV tokens in the Community Project Pallet are transferred to the Project Manager after milestones have been reached. XCAV tokens in the Community Project Pallet are allocated by sales of NFTs on the Xcavate real estate dApp NFT marketplace. An amount decided by Governance (initially set to 10%) of these fees go to the Community Project Pallet. A maximum of 10% of the project funding total can be funded by the bonding of XCAV tokens. The parameters required are the collection ID of the project and the amount of XCAV tokens that the user wishes to lock.
 
 \
-4.2 The second option is by selling the NFTs.\\
+4.2 The second option is by selling the NFTs.
 
 <figure><img src="https://lh7-us.googleusercontent.com/iMK37cM1Pa2RgF09b-_7Fb-DheVW9a1Bu1gyG4EJItzGGUKnHkwbse-QrMU8TKFxm5jk8ueUDWv82gqFNLuv8xryJJFYTVh3oCsG56ozri8QFBPn9HU0HbU3Je8MEwKDWMF0ej0NkX1sClLXfu-wPA" alt=""><figcaption></figcaption></figure>
 
