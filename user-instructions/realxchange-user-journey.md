@@ -1,5 +1,9 @@
 # realXchange User Journey
 
+#### Hosted frontend
+
+#### [https://main.d3bgxcwf8mvwq8.amplifyapp.com/](https://main.d3bgxcwf8mvwq8.amplifyapp.com/)
+
 #### Real exchange user instructions with next.js UI
 
 All users should land on the homepage to start their journey. This page explains the purpose of the dApp and the different project categories available.
